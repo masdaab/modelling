@@ -1,2 +1,2 @@
-<h2>Modelling Ch. 5</h2>
+<h2>Modelling Ch. 6 Update</h2>
 link : http://warm-earth-1847.herokuapp.com/
